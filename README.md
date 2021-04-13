@@ -8,3 +8,10 @@ For more info don't hesitate to ask for our report paper. The pdf was to heavy t
 Code 1 : Audio_features - recomendation based on the audio features 
 
 Code 2 : Lyrics - recomendation based on the lyrics using BERT embeddings and a random forest classifier
+
+## Report 
+
+The detailed report for this project can be found in the following link: 
+https://uclouvain-my.sharepoint.com/:b:/g/personal/tom_kenda_student_uclouvain_be/EYvOGZofof5HppvYdmsEXFMB2zErJq0kmyzXkTqLyXrWlg?e=ArdRFa
+
+Check it out if you want to see the conclusion of our project.
